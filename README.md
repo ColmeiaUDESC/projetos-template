@@ -20,10 +20,11 @@
 
 <sub> <strong>Siga o Colmeia nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ColmeiaUDESC)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&style=for-the-badge&logoColor=white)](https://www.tiktok.com/@colmeiaudesc)
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/colmeiaudesc/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/colmeiaudesc/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/colmeiaudesc)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yZZsV4xABZ)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/colmeiaudesc/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC51KrWL94AfGxI_4l_E7uzA)
 </sub>
 
